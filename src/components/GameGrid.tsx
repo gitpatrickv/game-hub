@@ -56,11 +56,3 @@ const GameGrid = () => {
 };
 
 export default GameGrid;
-//then map each game to game cart container
-//then map each game to game cart container
-
-// {hasNextPage && (
-//   <Button onClick={() => fetchNextPage()} marginY={5}>
-//     {isFetchingNextPage ? "Loading..." : "Loading More"}
-//   </Button>
-// )}
